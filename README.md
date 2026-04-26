@@ -1,11 +1,9 @@
 # Lyrics-Search-Engine
 ## 📖 Table of Contents
 * [About the Project](#about-the-project)
-* [Key Features](#key-features)
+* [Features](#key-features)
 * [Technologies Used](#technologies-used)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contact](#contact)
 
 ---
 ## About
