@@ -4,6 +4,7 @@
 * [Features](#key-features)
 * [Technologies Used](#technologies-used)
 * [Getting Started](#getting-started)
+* [Recording Example](#recording-example)
 
 ---
 ## About
@@ -22,6 +23,9 @@ This project processes `.txt` lyric files to find specific words or phrases. Itâ
 1. **Compile:** `g++ -o search main.cpp`
 2. **Run:** `./search`
 3. **Input:** Enter your filename and search term when prompted.
+
+## Recording Example
+*  https://drive.google.com/file/d/1GEvyrPrRiFmyB48eddxVFBhnTah9MJrX/view?usp=drive_link  
 
 ---
 [Back to Top](#lyrics-search-engine)
