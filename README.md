@@ -7,7 +7,7 @@
 
 ---
 ## About
-This project processes `.txt` lyric files to find specific words or phrases. It’s designed to be fast and lightweight, handling file input and search results through the terminal.
+This project processes `.txt` lyric files to find specific words or phrases. It’s designed to be fast and lightweight, handling file input and search results through the terminal. C++ Application to provide keyword retrival for extensive lyric files for specific patterns and phrases. 
 
 ## Features
 * **Custom Loading:** Input any `.txt` file at runtime.
